@@ -5,3 +5,4 @@
 - [Penlight](https://github.com/lunarmodules/Penlight), a collection of Lua libs that aims to make the language battery included.
 - [copas](https://github.com/lunarmodules/copas), network events dispatcher using Lua' coroutine, can be used with 'luasocket'.
 - [luasec](https://github.com/lunarmodules/luasec), SSL support for Lua.
+- [busted](https://github.com/lunarmodules/busted), Unit testing Lua code.
